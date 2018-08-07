@@ -1,0 +1,11 @@
+{
+  "files": {
+    "index.js": "c8d375c6cfe659e084db746d1fcdd6b2333075fe1727c521ba2da13eff90df74"
+  },
+   "defs": {
+	  "S_PARTY_MEMBER_LIST": 5,
+	  "S_LEAVE_PARTY": 1,
+	  "S_SPAWN_USER": 13,
+      "S_PARTY_INFO": 1
+  }
+}
